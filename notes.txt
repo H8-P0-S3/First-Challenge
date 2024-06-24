@@ -1,0 +1,1 @@
+- setelah selesai tugas lakukan git add . (simpan semua file) pastikan sebelum di git add file sudah disave semua
